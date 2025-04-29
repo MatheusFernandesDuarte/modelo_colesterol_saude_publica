@@ -9,7 +9,7 @@ Este projeto usa Machine Learning para prever o nível de colesterol de uma pess
 - Peso
 - Altura
 
-O modelo foi treinado em Python e disponibilizado com uma interface web usando Gradio.
+O modelo foi treinado em Python usando um database encontrado no Kaggle e disponibilizado com uma interface web usando Gradio.
 
 ## Como executar
 1. Instale as dependências: pip install pandas numpy scikit-learn gradio
